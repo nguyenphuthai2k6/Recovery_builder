@@ -11,7 +11,7 @@ export DT_LINK="https://github.com/youssefnone/android_recovery_samsung_m10lte" 
 export DT_BRANCH="twrp" # device tree branch
 export VENDOR="vsmart" # device manufacturer or vendor
 export TARGET="recoveryimage" # build method: recoveryimage, bootimage, vendorboot
-export TYPE="omni" # recovery type: omni, twrp, something else
+export TYPE="twrp" # recovery type: omni, twrp, something else
 
 # you dont need to edit these
 export SYM="_"
